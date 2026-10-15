@@ -36,3 +36,4 @@ A common misconception is that cybersecurity only means using antivirus software
 Resource: Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile - https://csrc.nist.gov/pubs/sp/800/61/r3/final
 
 ## Open Question
+How can a telecom operator make sure its 5G service stays available for emergency responders during a serious cyberattack, especially if the attack affects the network systems used to detect and stop it?
